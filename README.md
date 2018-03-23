@@ -1,2 +1,2 @@
 # my_repo
-Repositorio curso de MiriadaX
+Primer fichero en el primer repositorio de Rafael García León
